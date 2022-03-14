@@ -24,3 +24,5 @@ title: Black Day Supplies List
 9. Pocket flashlight
 
 10. Charging docks, powebanks, wires
+
+11. Medical stuff
