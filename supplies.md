@@ -2,14 +2,10 @@
 layout: default
 title: Black Day Supplies List
 ---
-<h3>Black Day Supplies List</h3>
+### Black Day Supplies List
 <hr></hr>
 
-1. Documents
-
-1.1 Passport, ids, bank cards
-
-1.2 Other required docs
+1. Documents (passport, ids, bank cards)
 
 2. Water in bottles (min 3l)
 
