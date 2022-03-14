@@ -3,7 +3,7 @@ layout: default
 title: Black Day Supplies List
 ---
 ### Black Day Supplies List
-<hr></hr>
+<hr>
 
 1. Documents (passport, ids, bank cards)
 
